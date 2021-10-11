@@ -1,0 +1,92 @@
+h1 {
+    font-size: 30px;
+    font-family: Vendara;
+    text-align: center;
+    color: #4e342e91;
+}
+
+.header {
+	min-height: 80px;
+	background-color: red;
+}
+
+.box {
+    overflow: hidden;
+}
+
+.box1 {
+    min-height: 120px;
+    background-color: #734747;
+    width: 50%;
+    float: left;
+}
+
+.box2 {
+    min-height: 120px;
+    background-color: #87af27;
+    width: 50%;
+    float: right;
+}
+
+.wrapper {
+    overflow: hidden;
+}
+
+.contact {
+    min-height: 120px;
+    background-color: darkcyan;
+    width: 33.33%;
+    float: left;
+}
+
+
+.blog {
+    min-height: 120px;
+    background-color: darkblue;
+    width: 33.33%;
+    float: left;
+}
+
+.feature {
+    min-height: 120px;
+    background-color: purple;
+    width: 33.33%;
+    float: left;
+}
+
+.container {
+     overflow: hidden;
+}
+
+.about {
+    min-height: 120px;
+    background-color: yellow;
+    width: 25%;
+    float: left;
+}
+
+.portfolio {
+    min-height: 120px;
+    background-color: lime;
+    width: 25%;
+    float: left;
+}
+
+.case {
+    min-height: 120px;
+    background-color: olive;
+    width: 25%;
+    float: left;
+}
+
+.testimony {
+    min-height: 120px;
+    background-color: aquamarine;
+    width: 25%;
+    float: left;
+}
+
+.footer {
+    min-height: 80px;
+    background-color: black;
+}
